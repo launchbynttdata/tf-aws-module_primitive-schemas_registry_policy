@@ -1,0 +1,1 @@
+# tf-aws-module_primitive-schemas_registry_policy
